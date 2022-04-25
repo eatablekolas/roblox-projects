@@ -20,3 +20,9 @@ Prosta demonstracja systemu broni w grze na przykładzie MP40.
 
 Filmik prezentujący działanie:
 https://cdn.discordapp.com/attachments/610420901066047498/968236120380940338/2022-04-25_21-33-59.mp4
+
+# EZ Union
+Program stworzony z myślą o twórcach w Robloxie, którym nie chce się szukać i złączać manualnie wszystkich zgodnych elementów.
+
+Zdjęcie interfejsu:
+![image](https://user-images.githubusercontent.com/48993306/165167120-797804bd-085b-437d-b06b-3e6d0312637a.png)
