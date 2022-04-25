@@ -25,4 +25,5 @@ https://cdn.discordapp.com/attachments/610420901066047498/968236120380940338/202
 Program stworzony z myślą o twórcach w Robloxie, którym nie chce się szukać i złączać manualnie wszystkich zgodnych elementów.
 
 Zdjęcie interfejsu:
+
 ![image](https://user-images.githubusercontent.com/48993306/165167120-797804bd-085b-437d-b06b-3e6d0312637a.png)
