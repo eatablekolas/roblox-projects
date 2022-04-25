@@ -11,3 +11,6 @@ UWAGA:
 
 # MP40
 Prosta demonstracja systemu broni w grze na przykładzie MP40.
+
+Filmik prezentujący działanie:
+https://cdn.discordapp.com/attachments/610420901066047498/968236120380940338/2022-04-25_21-33-59.mp4
