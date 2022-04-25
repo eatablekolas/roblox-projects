@@ -15,6 +15,13 @@ Program generujący wykres na podstawie wielomianu do trzeciej potęgi.
 Filmik prezentujący działanie:
 https://cdn.discordapp.com/attachments/610420901066047498/968239807937544192/2022-04-25_21-58-16.mp4
 
+# Keycard door
+Demonstracja drzwi w grze, które wymagają karty wstępu do przejścia, włącznie z zaprogramowanymi animacjami stylistycznymi.
+Ten projekt był robiony na zamówienie, dlatego też zawarty jest plik o nazwie "READ ME".
+
+Filmik prezentujący działanie:
+https://cdn.discordapp.com/attachments/610420901066047498/968246247926403193/2022-04-25_22-23-58.mp4
+
 # MP40
 Prosta demonstracja systemu broni w grze na przykładzie MP40.
 
