@@ -6,7 +6,7 @@ W każdym folderze znajdują się:
 - plik, który zawiera cały projekt i można otworzyć w Roblox Studio
 
 UWAGA:
-Niektóre elementy programu w pliku mogą nie działać w Roblox Studio ze względu na ich poleganie na elementach online
+Niektóre elementy programu w pliku mogą nie działać w Roblox Studio ze względu na ich zależność od elementów online
 
 # Parabola generator
 Program generujący wykres na podstawie wielomianu do trzeciej potęgi.
