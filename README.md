@@ -8,3 +8,6 @@ W każdym folderze znajdują się:
 UWAGA:
 - choć skrypty zostały napisane własnoręcznie, to niektóre z nich wykorzystują techniki opisane przez innych ludzi
 - niektóre elementy programu w pliku mogą nie działać w Roblox Studio ze względu na ich poleganie na elementach online
+
+# MP40
+Prosta demonstracja systemu broni w grze na przykładzie MP40.
