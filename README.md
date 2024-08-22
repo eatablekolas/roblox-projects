@@ -32,10 +32,22 @@ A plugin created for Roblox creators who don't feel like searching and manually 
 
 # Projects which I couldn't include
 
+## NPC AI Pathfinding System
+A system which allows NPCs to go along certain paths automatically.
+
+https://github.com/user-attachments/assets/c743a5a9-011a-463c-97b3-8f7bea38337b
+
 ## NPC Interaction System
 A system which lets you interact with NPCs in your game.
 
 https://github.com/user-attachments/assets/7309589f-4988-4198-8345-815a354fcd12
+
+## Crafting and Shop UI
+An interface that allows you to craft and/or buy items.
+
+(please excuse the texture on the spawn brick)
+
+https://github.com/user-attachments/assets/f84c2fe1-6de2-4d65-8ca3-7a59ad9e51f3
 
 ## UI work
 UI is one of my specialties when it comes to scripting in Roblox. Here is one of my favorite examples of my work in this field:
