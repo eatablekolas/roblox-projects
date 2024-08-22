@@ -1,7 +1,5 @@
 # My Portfolio
-Each folder represents one project.
-
-Each folder contains:
+Each folder represents one project and contains:
 - the most important scripts
 - a file that contains the entire project and can be opened in Roblox Studio
 
