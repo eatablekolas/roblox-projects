@@ -1,38 +1,45 @@
-# Projekty w Robloxie
-Każdy folder reprezentuje jeden projekt.
+# My Portfolio
+Each folder represents one project.
 
-W każdym folderze znajdują się:
-- najważniejsze skrypty 
-- plik, który zawiera cały projekt i można otworzyć w Roblox Studio
+Each folder contains:
+- the most important scripts
+- a file that contains the entire project and can be opened in Roblox Studio
 
-UWAGA:
-Niektóre elementy programu w pliku mogą nie działać w Roblox Studio ze względu na ich zależność od elementów online
+NOTE:
+Some program elements in the file may not work in Roblox Studio due to their dependence on online elements
 
-# Parabola generator
-Program generujący wykres na podstawie wielomianu do trzeciej potęgi.
+# Included projects
 
-Filmik prezentujący działanie:
+## Keycard door
+A demonstration of a door in the game that requires a keycard to pass through, including programmed stylistic animations.
 
-https://user-images.githubusercontent.com/48993306/165169381-63e3d811-54b6-4e9b-bf49-e9a37d61710a.mp4
-
-# Keycard door
-Demonstracja drzwi w grze, które wymagają karty wstępu do przejścia, włącznie z zaprogramowanymi animacjami stylistycznymi.
-Ten projekt był robiony na zamówienie, dlatego też zawarty jest plik o nazwie "READ ME".
-
-Filmik prezentujący działanie:
+This project was made as part of a commission, which is why the file named "READ ME" is included.
 
 https://user-images.githubusercontent.com/48993306/165169430-87d2980e-e182-4af6-9ce0-7ddb7b3c19bb.mp4
 
-# MP40
-Prosta demonstracja systemu broni w grze na przykładzie MP40.
-
-Filmik prezentujący działanie:
+## MP40
+A simple demonstration of the in-game weapon system using the MP40 as an example.
 
 https://user-images.githubusercontent.com/48993306/165169486-91b6eef2-a656-44ca-8990-281742b8829d.mp4
 
-# EZ Union
-Program stworzony z myślą o twórcach w Robloxie, którym nie chce się szukać i złączać manualnie wszystkich zgodnych elementów.
+## Parabola generator
+A script that generates a graph based on a polynomial to the third power.
 
-Zdjęcie interfejsu:
+https://user-images.githubusercontent.com/48993306/165169381-63e3d811-54b6-4e9b-bf49-e9a37d61710a.mp4
+
+## EZ Union
+A plugin created for Roblox creators who don't feel like searching and manually connecting all compatible elements.
 
 ![image](https://user-images.githubusercontent.com/48993306/165167120-797804bd-085b-437d-b06b-3e6d0312637a.png)
+
+# Projects which I couldn't include
+
+## NPC Interaction System
+A system which lets you interact with NPCs in your game.
+
+https://github.com/user-attachments/assets/7309589f-4988-4198-8345-815a354fcd12
+
+## UI work
+UI is one of my specialties when it comes to scripting in Roblox. Here is one of my favorite examples of my work in this field:
+
+https://github.com/user-attachments/assets/ed05c1e4-82d4-4332-9125-22914b95fc66
